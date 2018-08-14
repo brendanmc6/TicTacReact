@@ -1,5 +1,7 @@
 A simple single-component tic tac toe game.
 
+[Link to codesandbox](https://codesandbox.io/s/github/brendanmc6/TicTacReact)
+
 Wanted to see how quickly it would take me to do this without using Google.
 ...but I got distracted by lunch and forgot to pause my timer.🤷
 
